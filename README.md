@@ -1,2 +1,2 @@
 # Computer Architecture
- These mini projects were created in VU MIF Computer Architecture course (3 semester).
+Mini projects, which were created for VU MIF Computer Science course "Computer Architecture" (3 semester).
